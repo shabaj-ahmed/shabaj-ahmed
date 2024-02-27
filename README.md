@@ -42,6 +42,7 @@ For me, it's all about addressing challenges with a sense of humility and a focu
 **MEng in Mechanical Engineering** - Cardiff University <br />
 
 🏆 **Key Projects and Achievements** <br />
+**BrisHacks Hackathon 2024 Winner**: To tackle childhood obesity, we created a video game that requires players to engage in physical activities to control the character on screen. <br />
 **Robotic + Care Hackathon 2023 Winner**: Developed a social care robot to aid in healthcare settings. <br />
 **Progressable**: A cross-platform exercise journal application developed using Flutter. Download it at www.progressable.co.uk.  
 
