@@ -23,13 +23,12 @@ For me, it's all about addressing challenges with a sense of humility and a focu
 
 🛠 **Skills and Expertise** <br />
 **Cross-Disciplinary Knowledge**: Mechanical engineering, electronics and software development <br />
-**Team Collaboration**: Although I have diverse knowledge and experiences, I have found that my favourite projects are those that involve collaborating with diverse teams. <br />
+**Team Collaboration**: Although I have diverse knowledge and experiences, the projects I enjoyed the most involve collaborating with diverse teams. <br />
 **Adaptable Learner**: Continuously exploring new technologies and approaches, applying them pragmatically to solve the appropriate problems <br />
 
 ⚙️ **Current Work and Skills** <br />
-**Current Projects**: Focusing on developing user studies to gather user requirements and collaborating with doctors to build innovative healthcare technology as part of the Learn2Innovate program <br />
+**Current PhD project**: Currently gathering user requirements for a socially assistive robot coach <br />
 **Programming Languages**: Currently using Python to develop interactive robot behaviour <br />
-**Learn2Innovate**: I have joined the Learn2Innovate program, and I am currently working with medical students to develop a health-tech/med-tech solution (due to end on 27 April 2024) <br />
 **Web Development**: I am learning Next.js to learn how to build scalable and maintainable websites. <br />
 
 💼 **Professional Highlights** <br />
