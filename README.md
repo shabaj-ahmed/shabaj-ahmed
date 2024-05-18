@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Shabaj
+### 👋 Hi there, I’m Shabaj
 
 <!--
 **msahmed1/msahmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,29 +16,29 @@ Here are some ideas to get you started:
 -->
 
 🌱 **About Me** <br />
-I'm a PhD student exploring the field of human-robot interaction. My background includes time in automotive engineering and a stint in tech startups, but now I'm back in academia. I've always been drawn to how technology can solve practical problems and make a difference. While I've gathered a range of experiences, I see myself as a lifelong learner, constantly curious and open to new challenges.
+I’m a PhD student researching human-robot interaction. I aim to understand how robots can help us form healthy habits and improve our long-term health and well-being. My background includes time in the automotive industry and a stint in tech startups, but now I’m back in academia. I’ve always been drawn to how technology can solve practical problems and make a difference. While I’ve gathered a range of experiences, I see myself as a lifelong learner, constantly curious and open to new challenges.
 
 🧩 **My Approach** <br />
-For me, it's all about addressing challenges with a sense of humility and a focus on blending technical expertise with user-centric design. Efficiency is key, but the real reward lies in how these solutions positively impact everyday life. This grounded approach guides me through various disciplines, always with the priority of understanding and enhancing the way technology interfaces with people. <br />
+It’s all about addressing challenges with humility and a focus on blending technical expertise with user-centric design. Although efficiency is important, the real reward lies in pursuing solutions that positively impact everyday life. This approach has led me to explore various technical disciplines, but always with a focus on understanding and enhancing the way technology interfaces with people. <br />
 
 🛠 **Skills and Expertise** <br />
 **Cross-Disciplinary Knowledge**: Mechanical engineering, electronics and software development <br />
-**Team Collaboration**: Although I have diverse knowledge and experiences, the projects I enjoyed the most involve collaborating with diverse teams. <br />
+**Team Collaboration**: Although I am self-motivated to pursue projects that will add value, the projects I enjoyed the most involve collaborating with diverse teams. <br />
 **Adaptable Learner**: Continuously exploring new technologies and approaches, applying them pragmatically to solve the appropriate problems <br />
 
 ⚙️ **Current Work and Skills** <br />
-**Current PhD project**: Currently gathering user requirements for a socially assistive robot coach <br />
-**Programming Languages**: Currently using Python to develop interactive robot behaviour <br />
-**Web Development**: I am learning Next.js to learn how to build scalable and maintainable websites. <br />
+**Current PhD project**: I am working on the final study to complete my PhD. This project involves deploying a robot in the wild for multiple weeks to investigate if it can help someone form a healthy habit. <br />
+**Programming Languages**: Currently using Python to develop interactive robot behaviour and flutter to maintain a mobile exercise journaling app<br />
+**Web Development**: I am also exploring web development frameworks like Next.js to learn how to build scalable and maintainable websites. <br />
 
 💼 **Professional Highlights** <br />
 **PhD Research at Bristol University**: Advancing the field of human-robot interaction. <br />
-**Co-founder at 3D Farms**: Pioneering in automated nutrient control systems. <br />
-**ADAS System Architect at Jaguar Land Rover**: Focusing on enhancing driver safety through technology. <br />
+**Co-founder at 3D Farms**: Led the development of an automated aeroponics warehouse. <br />
+**ADAS System Architect at Jaguar Land Rover**: Managed and coordinated autonomous driving signals between ECUs <br />
 
 📚 **Education** <br />
 **PhD in Human-Robot Interaction** - Bristol University (Ongoing) <br />
-**MEng in Mechanical Engineering** - Cardiff University <br />
+**MEng in Mechanical Engineering** - Cardiff University, Graduated with a First class honours<br />
 
 🏆 **Key Projects and Achievements** <br />
 **BrisHacks Hackathon 2024 Winner**: To tackle childhood obesity, we created a video game that requires players to engage in physical activities to control the character on screen. <br />
@@ -46,10 +46,10 @@ For me, it's all about addressing challenges with a sense of humility and a focu
 **Progressable**: A cross-platform exercise journal application developed using Flutter. Download it at www.progressable.co.uk.  
 
 🎨 **Hobbies and Interests** <br />
-Outside the lab, I enjoy a balanced lifestyle with interests ranging from fitness and photography to arts and crafts. <br />
+Outside the PhD, I enjoy a balanced lifestyle with interests ranging from fitness and photography to DIY. <br />
 
 🤝 **Looking for Collaborations** <br />
-I am open to collaborations involving Human-Robot interaction or health technology, particularly projects aiming to enhance or augment human performance or improve health span. <br />
+I am open to collaborations involving Human-Robot interaction or health technology, particularly projects aiming to enhance or augment human performance or improve health span. Please feel free to reach out if you want to talk through an idea with me or if you have a project that you want help with. <br />
 
 📬 **Connect With Me** <br />
 Feel free to reach out for collaborations or just a chat: <br />
