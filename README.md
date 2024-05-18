@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 **About Me** <br />
-I’m a PhD student researching human-robot interaction. I aim to understand how robots can help us form healthy habits and improve our long-term health and well-being. My background includes time in the automotive industry and a stint in tech startups, but now I’m back in academia. I’ve always been drawn to how technology can solve practical problems and make a difference. While I’ve gathered a range of experiences, I see myself as a lifelong learner, constantly curious and open to new challenges.
+I’m a PhD student researching human-robot interaction, with a focus on designing robotic coaches that encourage behavioural changes to promote lifelong healthy habits. My background includes time in the automotive industry and a stint in tech startups, but now I’m back in academia. I’ve always been drawn to how technology can solve practical problems and make a difference. While I’ve gathered a range of experiences, I see myself as a lifelong learner, constantly curious and open to new challenges.
 
 🧩 **My Approach** <br />
 It’s all about addressing challenges with humility and a focus on blending technical expertise with user-centric design. Although efficiency is important, the real reward lies in pursuing solutions that positively impact everyday life. This approach has led me to explore various technical disciplines, but always with a focus on understanding and enhancing the way technology interfaces with people. <br />
