@@ -23,13 +23,11 @@ It’s all about addressing challenges with humility and a focus on blending tec
 
 🛠 **Skills and Expertise** <br />
 **Cross-Disciplinary Knowledge**: Mechanical engineering, electronics and software development <br />
-**Team Collaboration**: Although I am self-motivated to pursue projects that will add value, the projects I enjoyed the most involve collaborating with diverse teams. <br />
+**Team Collaboration**: Although I am self-motivated to pursue projects, the projects I enjoy the most involve collaborating with diverse teams. <br />
 **Adaptable Learner**: Continuously exploring new technologies and approaches, applying them pragmatically to solve the appropriate problems <br />
 
 ⚙️ **Current Work and Skills** <br />
 **Current PhD project**: I am working on the final study to complete my PhD. This project involves deploying a robot in the wild for multiple weeks to investigate if it can help someone form a healthy habit. <br />
-**Programming Languages**: Currently using Python to develop interactive robot behaviour and flutter to maintain a mobile exercise journaling app<br />
-**Web Development**: I am also exploring web development frameworks like Next.js to learn how to build scalable and maintainable websites. <br />
 
 💼 **Professional Highlights** <br />
 **PhD Research at Bristol University**: Advancing the field of human-robot interaction. <br />
