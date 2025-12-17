@@ -1,6 +1,6 @@
 ### Hi, I'm Shabaj
 
-**About Me** <br />
+<h1> About Me </h1>
 I am an Embedded Software Engineer at EnseraDesign. My experience spans mechanical design, embedded systems, electronics, and software development. I enjoy building technology that supports people in practical and meaningful ways, especially in the health, well-being, and assistive technology space.
 
 **Skills and Expertise** <br />
