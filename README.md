@@ -1,14 +1,14 @@
 ### Hi, I'm Shabaj
 
-<h1> About Me </h1>
+## About Me
 I am an Embedded Software Engineer at EnseraDesign. My experience spans mechanical design, embedded systems, electronics, and software development. I enjoy building technology that supports people in practical and meaningful ways, especially in the health, well-being, and assistive technology space.
 
-<h1> Skills and Expertise </h1>
-**Embedded & Robotics Engineering**: ESP32/STM32, FreeRTOS, BLE, sensor integration <br />
-**Software Development**: Python, C/C++, Flutter (Dart), robotics prototyping with ROS2 <br />
-**Systems Thinking**: Multidisciplinary prototyping, systems engineering, systems architecture, UX for human-robot interaction <br />
-**Collaborative R&D**: Experience working across engineering, research, and product teams <br />
-**Mechanical & Electronics Foundations**: Mechanical design, prototyping, PCB basics, system integration <br />
+## Skills and Expertise
+**Embedded & Robotics Engineering**: ESP32/STM32, FreeRTOS, BLE, sensor integration  
+**Software Development**: Python, C/C++, Flutter (Dart), robotics prototyping with ROS 2  
+**Systems Thinking**: Multidisciplinary prototyping, systems engineering, systems architecture, UX for human–robot interaction  
+**Collaborative R&D**: Experience working across engineering, research, and product teams  
+**Mechanical & Electronics Foundations**: Mechanical design, prototyping, PCB basics, system integration
 
 <h1> Current Work and Skills </h1>
 **Full-time role**: Embedded Software Engineer at EnseraDesign <br />
